@@ -1,0 +1,7 @@
+# requirements.txt
+
+# LZMA for block compression (built into Python standard library)
+# No need to install separately
+
+# Testing framework
+pytest
